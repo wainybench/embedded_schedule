@@ -88,7 +88,6 @@ All three tasks are pinned to **Core 1** so they must compete for the same CPU.
 
 - Replace the busy-wait with real I2S capture (INMP441), MFCC extraction, and a TensorFlow Lite Micro keyword-spotting model.
 - Measure servo step jitter and LED toggle jitter with a logic analyzer or timestamped GPIO logging, and record the numbers here.
-- Add a short video or GIF of the running hardware.
 
 ---
 
