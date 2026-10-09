@@ -96,6 +96,6 @@ All three tasks are pinned to **Core 1** so they must compete for the same CPU.
 
 ```
 .
-├── <sketch>.ino   # All three tasks plus setup()
+├── m.ino   # All three tasks plus setup()
 └── README.md
 ```
